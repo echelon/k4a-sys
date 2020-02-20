@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 
+## [0.2.2] - 2020-02-20
+### Changed
+
+- Switched to rustified enums for the constants, which makes it more portable.
+
 ## [0.2.1] - 2020-02-20
 ### Removed
 
